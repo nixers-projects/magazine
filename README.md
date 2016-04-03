@@ -6,6 +6,9 @@ open source magazine for unix nerds
 - decide on basic branding
 - decide on content
 - create kickstarter displaying these
+- collect, review, compile content
+- add finishing touches
+- ship out
 
 ## content
 
@@ -28,3 +31,4 @@ open source magazine for unix nerds
   - Interviews
   - N00bish questions
   - Philosophical questions
+- Comics by [rocx](https://github.com/rocx) 
